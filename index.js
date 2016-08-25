@@ -35,7 +35,7 @@ JSVEEPython.meta = {
   'description': 'JSVEE content package containing Python examples.',
   'author': 'Teemu Sirkiä',
   'license': 'MIT',
-  'version': '0.1.1',
+  'version': '0.2.0',
   'url': '',
   'teaserContent': ['ae_adl_hello', 'ae_adl_findmax'],
   'contents': {
